@@ -1,0 +1,12 @@
+[project]
+name = "liquidity-edge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "nbformat>=5.10.4",
+    "pandas>=2.3.1",
+    "plotly>=6.2.0",
+]
